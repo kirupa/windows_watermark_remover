@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.original
+*.sddl
+backup.xml
+SHA256SUMS.txt
